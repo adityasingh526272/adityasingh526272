@@ -92,29 +92,10 @@ A backend REST API for managing and searching products.
 
 </p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasingh526272&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasingh526272&layout=compact&hide_border=true&theme=tokyonight" height="180" />
-</p>
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=adityasingh526272&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasingh526272&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityasingh526272&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies" />
 </p>
 
 ## 👀 Visitor Count
