@@ -1,4 +1,4 @@
-# Yooo 👋, I'm Aditya Singh!
+# Hii 👋, I'm Aditya Singh!
 
 **B.Tech CSE Student | Java Developer | DSA | Backend Development**
 
